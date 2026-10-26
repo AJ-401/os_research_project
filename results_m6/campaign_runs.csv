@@ -1,0 +1,2 @@
+policy,repeat,start_temp_c,workers,window_s,fg_samples,fg_p50_ms,fg_p95_ms,fg_p99_ms,bg_cpu_pct,max_temp_c,mean_temp_c,time_above_T_hot_s,mean_freq_mhz,mean_perf_pct,perf_p5,limit_flag_frac,mean_cap,cap_changes,cap_failures,plugged_in
+M6,1,54.05,32,150.1,12319,6.331,9.357,10.873,77.41,64.05,62.05,106,2140.4,110.6,99.0,0.0,80.1,9,0,True

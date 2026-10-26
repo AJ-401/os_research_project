@@ -1,0 +1,22 @@
+{
+  "timestamp": "2026-10-13 21:40:53",
+  "power_plan": "Power Scheme GUID: 381b4222-f694-41f0-9685-ff5bb260df2e  (Balanced)",
+  "cpu_logical_cores": 32,
+  "cpu_physical_cores": 24,
+  "throttles": false,
+  "baseline_temp_c": 62.78,
+  "baseline_freq_mhz": 1866.3,
+  "peak_early_freq_mhz": 1902.1,
+  "throttle_onset_worker": 32,
+  "heavy_workers": 32,
+  "throttle_onset_temp_c": 73.05,
+  "throttle_onset_freq_mhz": 1866.3,
+  "T_warn": 60.0,
+  "T_hot": 62.0,
+  "cooldown_target": 55,
+  "calibration_run": {
+    "idle_duration_s": 15,
+    "step_duration_s": 15,
+    "total_points": 165
+  }
+}
